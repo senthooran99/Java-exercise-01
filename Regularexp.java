@@ -21,6 +21,7 @@ public class Regularexp {
             }
             if(!found){
                 System.out.println("Not found the match ");
+			 System.out.println("Try with another pattern ");
             }
         }
     }
